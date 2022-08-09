@@ -1,0 +1,14 @@
+name: md-tutorial
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.7
+  - networkx=2.3
+  - nglview
+  - numpy
+  - mdtraj
+  - jupyter
+  - pandas
+  - matplotlib
+  - seaborn
